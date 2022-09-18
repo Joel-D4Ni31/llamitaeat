@@ -1,0 +1,9 @@
+[Settings]
+Active Directory=D:\Sexto Semestre\SISEmbe\SourceBoost\projects\
+Target=PIC16F877A
+Active Compiler=BoostC
+Active Config=Debug
+Config=1
+[Files]
+Count=1
+File0=proyectou1.c
